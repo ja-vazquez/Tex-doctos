@@ -1,4 +1,4 @@
-# Documents
+# Documentos probatorios
 
 ###[Acta de grado L.O. Tellez](https://github.com/ja-vazquez/Tex_doctos/blob/master/Osvaldo.pdf)
 
