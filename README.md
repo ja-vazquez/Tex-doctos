@@ -7,3 +7,5 @@
 #[Co-direccion L.E. Padilla](https://github.com/ja-vazquez/Tex_doctos/blob/master/Constancia-Coodireccion_Padilla_Albores_Luis_Enrique.pdf)
 
 #[Arts. Alfabeticos](https://github.com/ja-vazquez/Tex_doctos/blob/master/AlbertoLetter.pdf)
+
+#[Arts. Colaboracion](https://github.com/ja-vazquez/Tex_doctos/blob/master/Vazquez.pdf)
